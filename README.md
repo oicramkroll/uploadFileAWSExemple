@@ -1,4 +1,4 @@
-# uploadFileAWSExemple
+# uploadFile AWS
 Projeto em node.js utilizando amazon services S3 para envio de arquivos
 
 Desenvolvido com ApiRestFul
